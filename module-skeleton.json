@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-media-dart-mobile",
+  "capabilityKey": "liberusoftware/module-social-network-media",
+  "presentation": "dart-mobile",
+  "package": "module_social_network_media_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/social-network/nextjs/media.md",
+  "presentationPlan": "projects/social-network/features/media.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
